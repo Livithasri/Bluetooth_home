@@ -1,0 +1,72 @@
+
+  
+    .header {
+        padding: 0%;
+        text-align: center;
+        background: #1abc9c;
+        color: white;
+        font-size: 30px;
+      }
+      .left{
+        float:left;
+        margin:0px;
+        background:lightpink;
+                    width:33%;
+                    height:370px;
+                    margin-left: 260px;
+      }
+      .center{
+        float:left; 
+        background:lightskyblue;
+        width:50%;
+        height:280px;
+      }
+      .right{
+        float:right;
+                    background:lightskyblue;
+                    width:50%;
+                    height:370px;
+                
+      }
+
+      .sidebar {
+        height: 1000%;
+        width: 250px;
+        position: fixed;
+        z-index: 1;
+        top: 45px;
+        left: 0;
+        background-color: rgb(107, 104, 104);
+        overflow-x: hidden;
+        padding-top: 16px;
+      }
+      
+      /* Style sidebar links */
+      .sidebar a {
+        
+        padding: 6px 8px 6px 16px;
+        text-decoration: none;
+        font-size: 20px;
+        color: #f5eded;
+        display: block;
+      }
+      
+      /* Style links on mouse-over */
+      .sidebar a:hover {
+        color: #f1f1f1;
+      }
+      
+      /* Style the main content */
+      .main {
+        margin-left: 260px; /* Same as the width of the sidenav */
+        padding: 0px 10px;
+      }
+      
+      /* Add media queries for small screens (when the height of the screen is less than 450px, add a smaller padding and font-size) */
+      @media screen and (max-height: 450px) {
+        .sidebar {padding-top: 15px;}
+        .sidebar a {font-size: 18px;}
+      }
+      .img1{
+        width: 100%;
+      }
