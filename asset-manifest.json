@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bluetooth_home/static/css/main.d9864220.css",
+    "main.js": "/Bluetooth_home/static/js/main.185cbe34.js",
+    "static/js/787.142da1d4.chunk.js": "/Bluetooth_home/static/js/787.142da1d4.chunk.js",
+    "index.html": "/Bluetooth_home/index.html",
+    "main.d9864220.css.map": "/Bluetooth_home/static/css/main.d9864220.css.map",
+    "main.185cbe34.js.map": "/Bluetooth_home/static/js/main.185cbe34.js.map",
+    "787.142da1d4.chunk.js.map": "/Bluetooth_home/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9864220.css",
+    "static/js/main.185cbe34.js"
+  ]
+}
